@@ -1,0 +1,68 @@
+*{
+    font-family: "DM Serif Display", serif;
+    color: White;
+}
+/* header section start */
+#header-section{
+    background-color: #212421;
+}
+/* navbar section start */
+
+#navbar-secction .navbar-brand {
+    color: White;
+    font-size: 30px;
+}
+#navbar-secction .nav-link{
+    color:  rgb(179, 179, 179);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    padding: 30px;
+}
+#navbar-secction .nav-link:hover{
+    color: white;
+}
+#navbar-secction .button{
+    color:  rgb(33, 39, 34);
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 60px;
+    text-decoration: none;
+    background-color: #EA8F10;
+    padding: 5px 35px;
+    border-radius: 5px;
+}
+#navbar-secction .button:hover{
+    color: white;
+    background-color: #ad6500;
+    transition: .3s;
+}
+/* navbar section end */
+
+/* intro section satrt */
+#intro-section p{
+    color:  rgb(254, 246, 230);
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+}
+#intro-section h1{
+    color:  rgb(254, 246, 230);
+    font-size: 104px;
+    font-weight: 400;
+    line-height: 112px;
+    padding-bottom: 20px;
+}
+#intro-section a{
+    color:  rgb(254, 246, 230);
+    font-size: 20px;
+    font-weight: 200;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+#intro-section i{
+    font-size: 30px;
+}
+/* intro section end */
+
+/* header section start */
